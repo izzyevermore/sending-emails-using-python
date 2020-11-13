@@ -50,7 +50,7 @@ def send_button():
 
     try:
         sender_email = "isaiahlekay2001@gmail.com"
-        receiver_email = "thapelo@lifechoices.co.za"
+        receiver_email = "isaiahlekay2001@gmail.com"
         password = str(input("Please enter your password: "))
         server.starttls()
 
